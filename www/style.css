@@ -1,0 +1,10 @@
+/* Get a fancy font from Google Fonts */
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
+
+* {
+  font-family: Montserrat !important;
+}
+
+.navbar {
+  margin-bottom: 0px;
+}
